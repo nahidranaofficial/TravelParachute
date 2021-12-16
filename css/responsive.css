@@ -1,0 +1,262 @@
+@media (min-width: 1400px) {
+    /* banner part start */
+
+    /* banner part end */
+}
+
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+    /* banner part start */
+
+    #title {
+        padding: 90px 0 258px;
+    }
+
+    #title .title_text img {
+        padding-bottom: 34px;
+        width: 260px;
+    }
+
+    #title .title_text h3 {
+        font-size: 48px;
+    }
+
+    #title .title_text p {
+        font-size: 20px;
+        width: 70%;
+        line-height: 26px;
+        padding-top: 32px;
+        padding-bottom: 95px;
+    }
+
+    #title .title_text h5 {
+        font-size: 18px;
+        width: 100%;
+        padding-bottom: 18px;
+    }
+
+    #title .title_text input {
+        border-radius: 25px;
+        height: 50px;
+        width: 60%;
+        padding-left: 22px;
+        font-size: 20px;
+        left: 155px;
+    }
+
+    #title .title_text button {
+        font-size: 20px;
+        border-radius: 25px;
+        width: 210px;
+        height: 50px;
+        text-transform: uppercase;
+        right: 165px;
+    }
+
+    /* banner part end */
+}
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    /* banner part start */
+
+    #title {
+        padding: 90px 0 268px;
+    }
+
+    #title .title_text img {
+        padding-bottom: 34px;
+        width: 250px;
+    }
+
+    #title .title_text h3 {
+        font-size: 42px;
+    }
+
+    #title .title_text p {
+        font-size: 20px;
+        width: 70%;
+        line-height: 26px;
+        padding-top: 32px;
+        padding-bottom: 95px;
+    }
+
+    #title .title_text h5 {
+        font-size: 18px;
+        width: 100%;
+        padding-bottom: 20px;
+    }
+
+    #title .title_text input {
+        border-radius: 25px;
+        height: 50px;
+        width: 55%;
+        padding-left: 22px;
+        font-size: 18px;
+        left: 155px;
+    }
+
+    #title .title_text button {
+        font-size: 18px;
+        border-radius: 25px;
+        width: 190px;
+        height: 50px;
+        text-transform: uppercase;
+        right: 155px;
+    }
+
+    /* banner part end */
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+    /* banner part start */
+
+    #title {
+        padding: 90px 0 310px;
+    }
+
+    #title .title_text img {
+        padding-bottom: 34px;
+        width: 210px;
+    }
+
+    #title .title_text h3 {
+        font-size: 32px;
+    }
+
+    #title .title_text p {
+        font-size: 18px;
+        width: 80%;
+        line-height: 26px;
+        padding-top: 32px;
+        padding-bottom: 88px;
+    }
+
+    #title .title_text h5 {
+        font-size: 16px;
+        width: 100%;
+        padding-bottom: 18px;
+    }
+
+    #title .title_text input {
+        border-radius: 25px;
+        height: 48px;
+        width: 70%;
+        padding-left: 20px;
+        font-size: 16px;
+        left: 80px;
+    }
+
+    #title .title_text button {
+        font-size: 18px;
+        border-radius: 25px;
+        width: 160px;
+        height: 48px;
+        text-transform: uppercase;
+        right: 80px;
+    }
+
+    /* banner part end */
+}
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+    /* banner part start */
+
+    #title {
+        padding: 90px 0 330px;
+    }
+
+    #title .title_text img {
+        padding-bottom: 34px;
+        width: 210px;
+    }
+
+    #title .title_text h3 {
+        font-size: 24px;
+    }
+
+    #title .title_text p {
+        font-size: 16px;
+        width: 100%;
+        line-height: 22px;
+        padding-top: 32px;
+        padding-bottom: 88px;
+    }
+
+    #title .title_text h5 {
+        font-size: 14px;
+        width: 100%;
+        padding-bottom: 16px;
+    }
+
+    #title .title_text input {
+        border-radius: 25px;
+        height: 45px;
+        width: 70%;
+        padding-left: 18px;
+        font-size: 14px;
+        left: 40px;
+    }
+
+    #title .title_text button {
+        font-size: 14px;
+        border-radius: 25px;
+        width: 130px;
+        height: 45px;
+        text-transform: uppercase;
+        right: 40px;
+    }
+
+    /* banner part end */
+}
+
+@media (max-width: 575.98px) {
+
+    /* banner part start */
+
+    #title {
+        padding: 90px 0 355px;
+    }
+
+    #title .title_text img {
+        padding-bottom: 30px;
+        width: 170px;
+    }
+
+    #title .title_text h3 {
+        font-size: 20px;
+    }
+
+    #title .title_text p {
+        font-size: 14px;
+        width: 100%;
+        line-height: 22px;
+        padding-top: 32px;
+        padding-bottom: 90px;
+    }
+
+    #title .title_text h5 {
+        font-size: 11px;
+        width: 100%;
+        padding-bottom: 20px;
+    }
+
+    #title .title_text input {
+        border-radius: 25px;
+        height: 40px;
+        width: 90%;
+        padding-left: 12px;
+        font-size: 12px;
+        left: 10px;
+    }
+
+    #title .title_text button {
+        font-size: 12px;
+        border-radius: 25px;
+        width: 110px;
+        height: 40px;
+        text-transform: uppercase;
+        right: 10px;
+    }
+
+    /* banner part end */
+
+}
